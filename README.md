@@ -2,3 +2,5 @@
 Santa Monica College CS82B Fall 2026
 
 module-02: python overview
+module-03:
+module-04: hands-on EDA
